@@ -97,6 +97,6 @@ public class Main
         gui.setSize(720, 480);
         gui.setVisible(true);
         gui.setTitle("PokeGo Candy Calculator");
-        System.out.println("FUCKED6");
+        //System.out.println("FUCKED6");
     }
 }
