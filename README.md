@@ -10,3 +10,6 @@ Simply extract the zip, and and run the batch file. Follow the on-screen instruc
 ### How to use - Step by Step screenshot tutorial
 http://imgur.com/a/FGsUE
 
+
+##Authors Note
+Yes, I know that most of it is bad coding and bad practice. I have a pretty small understanding of Java and I just did things in the easiest way possible. If you have any way to better my code or improve my programming, please tell me! I'm open to anything!
